@@ -4,6 +4,12 @@ An intelligent enterprise knowledge assistant capable of processing multiple doc
 
 ---
 
+## 🔗 Live Application Website
+You can access and test the live running application here:
+👉 **[Live Demo Website](https://enterpriseaiknowledgeapp-fef3tkgx4qpguycyyhz2e8.streamlit.app/)**
+
+---
+
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
