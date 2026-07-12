@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Local configuration and API keys
+.env
+
+# Vector database and processed chunks (should be rebuilt locally)
+chroma_db/
+data/
+
+# Python cache files
+**/__pycache__/
+*.pyc
+
+# IDE settings
+.idea/
+.vscode/
